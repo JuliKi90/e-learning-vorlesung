@@ -1,0 +1,24 @@
+- question: How old is Barack Obama?
+  questionid: "1"
+  answers:
+    - answer: 57
+      correct: True
+      hint: That is correct
+    - answer: 62
+      correct: False
+      hint: Nope. Younger than you expect
+    - answer: 50
+      correct: False
+      hint: No way. He probably wishes to be that old.
+- question: How old is Barack Obama?
+  questionid: "1"
+  answers:
+    - answer: 57
+      correct: True
+      hint: That is correct
+    - answer: 62
+      correct: False
+      hint: Nope. Younger than you expect
+    - answer: 50
+      correct: False
+      hint: No way. He probably wishes to be that old.

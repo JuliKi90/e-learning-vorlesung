@@ -1,0 +1,26 @@
+- question: Wählen Sie alle Verfahrensregeln aus.
+  questionid: 1
+  hint: Das war leider noch nicht ganz richtig. Versuche es erneut!
+  answers:
+    - answer: Wenn es zum zweiten Mal läutet, sitzen Alle an ihren Tischen und bereiten die Arbeitsmaterialien vor.
+      correct: True
+    - answer: Auf dem Weg in den Sportunterricht ist das Rennen aufgrund der Unfallgefahr untersagt. 
+      correct: True
+    - answer: Jeder darf ausreden, ohne dabei unterbrochen zu werden.
+      correct: False
+    - answer: Wenn Jemand eine Frage stellt, wird nicht gelacht. 
+      correct: False
+
+- question: Wählen Sie alle Verhaltensregeln aus.
+  questionid: 2
+  hint: Das war leider noch nicht ganz richtig. Versuche es erneut!
+  answers:
+    - answer: Alle werden in die Klassengemeinschaft integriert.
+      correct: True
+    - answer: Trinken ist im Unterricht erlaubt, gegessen wird nur in der Pause. 
+      correct: False
+    - answer: Freitags werden die Wochenhausaufgaben auf dem Pult abgelegt. 
+      correct: False
+    - answer: Wenn Jemand Verständnisschwierigkeiten hat, fragen wir, ob unsere Hilfe benötigt wird.
+      correct: True
+

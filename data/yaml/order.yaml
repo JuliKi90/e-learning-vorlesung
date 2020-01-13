@@ -1,0 +1,9 @@
+- question: Ordnen Sie die Präventions- und Interventionsmaßnahmen der Lehrkraft aufsteigend nach dem Umfang der Unterrichtsunterbrechung. 
+  questionid: 1
+  hint: Das war leider noch nicht ganz richtig. Versuche es erneut!
+  answers:
+    - answer: Lehrkraft lobt die mitarbeitenden Schülerinnen und Schüler für ihr Engagement
+    - answer: Lehrkraft bewegt sich in Pauls Richtung und schüttelt mit dem Kopf
+    - answer: Lehrkraft unterbricht ihre Erklärung und blickt Paul so lange an, bis er aufhört zu stören
+    - answer: Lehrkraft trägt Paul zum Nachsitzen nach der 6. Stunde ein, Paul protestiert
+    - answer: Lehrkraft bittet Paul nach der Stunde zum Gespräch, um über sein Verhalten zu sprechen

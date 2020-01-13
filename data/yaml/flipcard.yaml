@@ -1,0 +1,63 @@
+- front: Materielle Verstärker
+  back: Materielle Verstärker sind etwa Spielsachen, Bildchen, Süßigkeiten usw.
+  flipcardid: 1
+
+- front: Soziale Verstärker
+  back: "Soziale Verstärker im sprachlichen Bereich sind Ausdrücke, die Lob vermitteln wie etwa „Du warst sehr fleißig!“ oder „Das ist ein guter Gedankengang!“. Im nichtsprachlichen Bereich finden sich soziale Verstärker in Form von Gesten (auf die Schulter klopfen, Applaus) oder Mimik (freundliches Lächel aufmunterndes Nicken)."
+  flipcardid: 2
+
+- front: Aktivitätsverstärker
+  back: Aktivitätsverstärker sind Verstärker in Form beliebter Tätigkeiten wie etwa Durchführung von Experimenten, Fußball spielen, Gemeinschaftsspiele usw.
+  flipcardid: 3
+
+- front: Informative Verstärker 
+  back: Informative Verstärker sind solche Verstärker, die dem Lerner eine Mitteilung (Information) über die Erreichung eines Ziels geben, z.B. dem richtigen Lösen einer Mathematikaufgabe. 
+  flipcardid: 4
+
+- front: Immerverstärkung (Kontinuierliche Verstärkung) 
+  back: Das Verhalten wird nach jedem Auftreten verstärkt. Das ist immer dann notwendig, wenn eine Verhaltensweise sehr selten auftritt oder neu erlernt wird. 
+  flipcardid: 5
+
+- front: Gelegentliche Verstärkung (intermittierende Verstärkung) 
+  back: "Das Verhalten wird nur gelegentlich verstärkt. Entweder nach einem bestimmten zeitlichen Intervall (z.B. einmal wöchentlich) oder nach einer gewissen Anzahl der ausgeführten Verhaltensweisen (z.B. jedes dritte Mal). Außerdem kann die Verstärkung regelmäßig (fest) oder unregelmäßig (variabel) erfolgen. Ist eine Verhaltensweise aufgebaut, wird also häufig gezeigt, ist es ausreichend und vorteilhaft nur noch gelegentlich zu verstärken."
+  flipcardid: 6
+
+- front: Möglichkeiten zur Umsetzung im Klassenraum
+  back: "Im Klassenraum sollte man so stehen, dass alles überblickt werden kann. Außerdem ist es wichtig, sich gelegentlich im Klassenraum zu bewegen. Beim Schreiben an die Tafel (oder Nutzung eines anderen Mediums) sollte man zwischendurch zur Klasse blicken, um Präsenz zu zeigen. Während Gesprächen mit Einzelnen sollte man man den Blick auch auf die Klasse richten."
+  flipcardid: 7
+
+- front: Möglichkeiten zur Umsetzung im Klassenraum 
+  back: "Unterbrechungen (z.B. lange Belehrungen nach Unterrichtsstörung, plötzliche Äußerungen zu Nebensächlichem) sollten von Seiten der Lehrperson minimiert werden. Lange Dialoge mit Einzelnen sollten vermieden werden: Die Aktivität der ganzen Klasse hat Vorrang vor der Beschäftigung mit Einzelnen oder Kleingruppen. Thematische Sprünge und abrupte Wechsel der Aufgabenstellung sollten ebenfalls vermieden werden („So, jetzt entwickelt mal Ideen in Partnerarbeit!“ - kurze Zeit später: „Also, jetzt zeige ich Euch mal, wie das geht!“). Organisatorisches sollte gebündelt vermittelt werden, sodass wenige Unterrichtsunterbrechungen dadurch entstehen. Es bietet sich an, Verfahrensregeln für regelmäßig wiederkehrende Abläufe einzuführen und einzuüben (bspw. Hausaufgabenkontrolle, Einsammeln oder Austeilen von Blättern, Stuhlkreis organisieren, ...). Aktivitätswechsel (von Gruppen - Einzelarbeit) können durch klare Instruktionen zügig gestaltet werden. Der Unterricht sollte sorgfältig vorbereitet sein: Klassenraum übersichtlich gestalten, Geräte und Materialien vorbereiten, Material in Griffnähe stellen."
+  flipcardid: 8
+
+- front: Während des Unterrichtsgesprächs
+  back: "Fragen sollten an alle Schüler*innen gerichtet werden, während man dabei den Blick schweifen lässt. Bei Aufnehmen der Antworten sollte Jede/r aufgerufen werden können (nicht vorher angeben, wer welche Fragen beantworten soll oder der Reihe nach aufrufen)."
+  flipcardid: 9
+
+- front: Während der Gruppenarbeit
+  back: "Positive Interdependenz (wechselseitige Abhängigkeit in Bezug auf das Erreichen des Lernziels) kann durch geeignete Kooperationsskripte und Arbeitsaufträge hergestellt werden („Trittbrettfahren“ und „soziales Faulenzen“ vermeiden). Weiterhin sollte man eine individuelle Verantwortlichkeit herstellen (Beitrag jedes/jeder Einzelnen am Zustandekommen der kollektiven Gruppenleistung muss erfasst werden bzw. erkennbar werden → Rechenschaftsprinzip)."
+  flipcardid: 10
+
+- front: Unabhängig von der Sozialform des Unterrichts
+  back: "Es bietet sich eine breite Leistungskontrolle an, z.B. durch gegenseitiges Tauschen der Arbeitsergebnisse oder Hochhalten oder Einsammeln der Hefte/Arbeitsergebnisse. Es sollte deutlich kommuniziert werden, dass Jede/r drankommen kann, um etwas zu präsentieren/demonstrieren oder um eine Frage zu beantworten."
+  flipcardid: 11
+
+- front: "(1) Aktive Unterrichtsstörungen"
+  back: Aktive Unterrichtsstörungen sind Schüleraktivitäten, die Unruhe erzeugen, z.B. Seitengespräche, Zwischenrufe, lautes Gelächter, zu spät kommende Schülerinnen und Schüler etc. 
+  flipcardid: 12
+
+- front: "(2) Passive Unterrichtsstörungen"
+  back: Passive Unterrichtsstörungen sind ein Mangel an erwünschten Aktivitäten, z.B. schlechte Mitarbeit, keine Hausaufgaben etc.
+  flipcardid: 13
+
+- front: "(3) Störungen der Schüler-Schüler-Interaktion"
+  back: Störungen der Schüler-Schüler-Interaktion sind Schüleraktivitäten, die die Beziehungen im Klassenraum negativ beeinflussen und somit ebenfalls zu einer Störung vom Unterricht führen kann, z.B. Ausgrenzen, Feindseligkeiten, Mobbing etc. 
+  flipcardid: 14
+
+- front: "(1) Verhaltensregeln in Form von Erwartungen an das soziale Verhalten"
+  back: "Beispiele: Höflichkeit: Man grüßt sich zu Beginn der Stunde und man lässt sich gegenseitig ausreden. Störungsfreie Mitarbeit: Man meldet sich bei Wortbeiträgen"
+  flipcardid: 15
+
+- front: "(2) Verfahrensregeln in Form von konkreten Vorgaben für bestimmte, wiederkehrende Abläufe in häufig vorkommenden Unterrichtssituationen"
+  back: "Beispiele: Wann genau, mit welchem Signal beginnt der Unterricht? Was ist zu tun, wenn sich die Lehrkraft verspätet? Zu welchen Zwecken darf man von seinem Platz aufstehen? Welche Folgen hat die Nichterledigung von Hausaufgaben?"
+  flipcardid: 16
