@@ -5,7 +5,7 @@ title: Welche Zielsetzung verfolgt die E-Learning Einheit?
 module: 0
 unit: 0
 subunit: 0
-type: video
+type: information
 ---
 
 ## Welche Zielsetzung verfolgt die E-Learning Einheit?
