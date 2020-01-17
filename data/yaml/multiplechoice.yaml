@@ -24,3 +24,28 @@
     - answer: Wenn Jemand Verständnisschwierigkeiten hat, fragen wir, ob unsere Hilfe benötigt wird.
       correct: True
 
+- question: Wählen Sie alle nonverbalen Signale aus.
+  questionid: 3
+  hint: Das war leider noch nicht ganz richtig. Versuche es erneut!
+  answers:
+    - answer: So stehen, dass alles überblickt werden kann.
+      correct: True
+    - answer: Namen des Störenden nennen.
+      correct: False
+    - answer: beim Schreiben an der Tafel/im Gespräch mit Einzelnen zwischendurch zur Klasse blicken. 
+      correct: True
+    - answer: Störungen durch räumliches Annähern unterbinden.
+      correct: True
+
+- question: Wählen Sie alle verbalen Signale aus.
+  questionid: 4
+  hint: Das war leider noch nicht ganz richtig. Versuche es erneut!
+  answers:
+    - answer: sich gelegentlich im Raum bewegen.
+      correct: False
+    - answer: konkrete Aufforderungen aussprechen („Tim, schau zur Tafel!“).
+      correct: True
+    - answer: Störungen durch Anblicken/leichtes Kopfschütteln unterbinden.
+      correct: False
+    - answer: Abgelenkte Schüler*innen in den Unterricht einbinden („Ines, findest du auch, dass es keine Alternative zu Ferdinands Verhalten gibt?“).
+      correct: True
