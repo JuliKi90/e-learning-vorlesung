@@ -7,6 +7,6 @@ yarn-error.log
 /public
 .DS_Store
 
-/static
+# /static
 /src/markdown
 /workspace.code-workspace
