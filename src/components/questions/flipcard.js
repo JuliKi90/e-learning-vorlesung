@@ -12,6 +12,7 @@ const Container = styled.div`
 
     p {
       margin: 20px;
+      font-size: 0.9rem;
       color: #fff;
     }
   }
