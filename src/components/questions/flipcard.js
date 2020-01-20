@@ -4,7 +4,7 @@ import { useSpring, animated as a } from 'react-spring'
 import { StaticQuery, graphql } from "gatsby"
 
 const Container = styled.div`
-  min-height: 55ch;
+  min-height: 60ch;
 
   .front,
   .back {
@@ -12,7 +12,7 @@ const Container = styled.div`
 
     p {
       margin: 20px;
-      font-size: 0.9rem;
+      font-size: 0.8rem;
       color: #fff;
     }
   }
