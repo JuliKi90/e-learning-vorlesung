@@ -12,7 +12,6 @@ const Container = styled.div`
 
     p {
       margin: 20px;
-      font-size: 0.8rem;
       color: #fff;
     }
   }
@@ -31,6 +30,7 @@ const Container = styled.div`
 
   .back {
     background-color: ${props => props.theme.primaryColorLight};
+    font-size: 1rem;
     /* background: url(${props => props.frontimage}); */
     /* background-size: cover; */
   }
@@ -39,6 +39,7 @@ const Container = styled.div`
     background-color: ${props => props.theme.primaryColor};
     /* background: url(${props => props.backimage}); */
     background-size: cover;
+    font-size: 0.8rem;
   }
 `;
 
